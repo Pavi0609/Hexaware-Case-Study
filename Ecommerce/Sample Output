@@ -1,0 +1,163 @@
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 1
+
+--- Register New Customer ---
+Enter customer name: Pavithra Balaji
+Enter email: pavithra.balaji@example.com
+Enter password: securepavi666
+Customer registered successfully!
+
+-----------------------------------------------------------------------------------------
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 2
+
+--- Create New Product ---
+Enter product name: Axe perfume
+Enter price: 1999
+Enter description: Perfumes
+Enter stock quantity: 10
+Product created successfully!
+
+-----------------------------------------------------------------------------------------
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 3
+
+--- Delete Product ---
+Enter product ID to delete: 7
+Error: Product with ID 7 not found.
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 3
+
+--- Delete Product ---
+Enter product ID to delete: 4
+Product deleted successfully!
+
+-----------------------------------------------------------------------------------------
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 4
+
+--- Add Product to Cart ---
+Enter customer ID: 9
+Enter product ID: 1
+Enter quantity: 2
+Product added to cart successfully!
+
+-----------------------------------------------------------------------------------------
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 5
+
+--- View Cart ---
+Enter customer ID: 9
+
+Products in your cart:
+Product{productId=1, name='Samsung Galaxy S23', price=74999.99, description='Smartphone', stockQuantity=5}
+
+-----------------------------------------------------------------------------------------
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 6
+
+--- Place Order ---
+Enter customer ID: 9
+Enter shipping address: 456 KR Puram, Bangalore
+Order placed successfully!
+
+------------------------------------------------------------------------------------------
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 7
+
+--- View Customer Orders ---
+Enter customer ID: 2
+
+Customer Orders:
+
+Order #1:
+Wildcraft Backpack - Quantity: 3 - Price: $2499.99
+Dell Inspiron 15 - Quantity: 1 - Price: $58999.99
+
+===== E-Commerce Application System =====
+1. Register Customer
+2. Create Product
+3. Delete Product
+4. Add to Cart
+5. View Cart
+6. Place Order
+7. View Customer Orders
+8. Exit
+Enter your choice: 
+7
+
+--- View Customer Orders ---
+Enter customer ID: 5
+No orders found for this customer.
